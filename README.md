@@ -32,5 +32,48 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 
 <hr/>
 
+## Schema 📋
+<img width='100%' src='https://github.com/yadavsahil28/StudyNotion-EdTechPlatform/assets/121487105/24e7d020-38df-4405-81a7-0470e62d88e9' />
 
+<hr/>
 
+##  🖥️ Screen Preview :
+
+# Home Page 🏠 
+<img width='100%' src='https://github.com/yadavsahil28/StudyNotion-EdTechPlatform/assets/121487105/0caf7b17-a86a-40ea-842e-8324025a0e0b' />
+
+# Catalog Page
+<img width='100%' src='https://github.com/yadavsahil28/StudyNotion-EdTechPlatform/assets/121487105/ac5a31b6-d6a8-4787-abae-797f223938aa' />
+
+# Contact Page
+<img width='100%' src='https://github.com/yadavsahil28/StudyNotion-EdTechPlatform/assets/121487105/cc5253b9-a345-4f01-ad35-2a2352cb51fa' />
+
+# Login Page
+<img width='100%' src='https://github.com/yadavsahil28/StudyNotion-EdTechPlatform/assets/121487105/3b2e4ced-20b7-4125-88bc-2a72433ca88d' />
+
+# Signup Page
+<img width='100%' src='https://github.com/yadavsahil28/StudyNotion-EdTechPlatform/assets/121487105/3ac99ae0-1da4-43c5-a465-e51233d25a86' />
+
+# Signup Otp Email
+<img width='100%' src='https://github.com/yadavsahil28/StudyNotion-EdTechPlatform/assets/121487105/ea6e336b-157c-4632-885a-9afa47f6fd00' />
+
+# Forgot passwornd
+<img width='100%' src='https://github.com/yadavsahil28/StudyNotion-EdTechPlatform/assets/121487105/88b0044b-e03f-40e8-8259-ab53ae2d1273' />
+
+# My Profile
+<img width='100%' src='https://github.com/yadavsahil28/StudyNotion-EdTechPlatform/assets/121487105/dc9761f6-8c56-49ec-a534-4430111c364c' />
+
+# Edit Profile
+<img width='100%' src='https://github.com/yadavsahil28/StudyNotion-EdTechPlatform/assets/121487105/8f24841a-9b06-4535-b4de-54ae284f5a4a' />
+
+# Enrolled Courses
+<img width='100%' src='https://github.com/yadavsahil28/StudyNotion-EdTechPlatform/assets/121487105/8f9a3af0-cf1a-462f-bbf5-5324265d8b95' />
+
+# Instructor Dashboard
+<img width='100%' src='https://github.com/yadavsahil28/StudyNotion-EdTechPlatform/assets/121487105/00e2d07e-273e-4139-9f56-696bfd61292d' />
+
+# Add Course
+<img width='100%' src='https://github.com/yadavsahil28/StudyNotion-EdTechPlatform/assets/121487105/0c2f7c7e-c9a6-4717-9ab4-f58e6deaa592' />
+
+# Courses
+<img width='100%' src='https://github.com/yadavsahil28/StudyNotion-EdTechPlatform/assets/121487105/b65c8a84-8fe4-4f0b-9ba7-67fa57e01bca' />
